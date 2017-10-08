@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1014297434766",
+    "project_id": "firebase-vosa"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1014297434766:android:88e9128136fa52c4",
+        "android_client_info": {
+          "package_name": "com.android.vosa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1014297434766-k5st00d06thq4ruc6u35i212bici04qt.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "1014297434766-gmvnr7h5b4jk1g53ci13t12r2l32olk5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.android.vosa",
+            "certificate_hash": "f967a402d7073fb3c691f74a3ff49bc29bccea3c"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcyQy2Vdro6eEwd0X-3eX1M_riHNFdj9Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
